@@ -1,5 +1,5 @@
 
-// MOdificando atributos y propiedades
+// Modificando atributos y propiedades
 
 const input = document.querySelector('input');
 console.log(input);
