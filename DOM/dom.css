@@ -52,6 +52,25 @@ menu ul{
   display: flex;
   gap: 10px;
   list-style: none;
+
+}
+
+.main-menu {
+  color: coral;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: crimson;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.invisible {
+  display: none;
 }
 
 main {
